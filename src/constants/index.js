@@ -28,6 +28,15 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+  title: "QuizMaster",
+  image: project4,
+  description:
+    "An AI-powered quiz platform that converts scanned papers into interactive quizzes using OCR (Tesseract.js) and Gemini AI for automatic formatting. Includes real-time editing, JWT-based authentication, and Cloudinary file storage.",
+  technologies: ["React", "TypeScript", "Node.js", "MongoDB", "Gemini AI", "Tesseract.js"],
+  date: "February 2025",
+},
+
+  {
     title: "A2Z DSA Tracker",
     image: project1,
     description:
